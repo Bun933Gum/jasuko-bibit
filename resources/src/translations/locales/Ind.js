@@ -437,7 +437,7 @@ export default {
     payNow: 'Bayar sekarang',
     ListofCategory: 'Daftar Kategori',
     Description: 'Deskripsi',
-    submit: 'Kirimkan',
+    submit: 'Simpan',
     ProblemCreatingThisInvoice: 'Terjadi masalah saat membuat Faktur ini. Silakan coba lagi',
     ProblemPayment: 'Ada masalah Pembayaran. Silakan coba lagi.',
     IncomeExpenses: 'Pendapatan & Pengeluaran',
